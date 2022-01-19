@@ -5,3 +5,4 @@ metadata:
   name: gocd
   labels:
     team: DevOps
+    istio-injection: disabled
