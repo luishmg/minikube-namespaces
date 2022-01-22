@@ -1,8 +1,0 @@
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: concourse
-  labels:
-    team: DevOps
-    istio-injection: enable
