@@ -1,8 +1,0 @@
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: gocd
-  labels:
-    team: DevOps
-    istio-injection: disabled
