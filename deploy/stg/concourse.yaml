@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: gocd
+  name: concourse
   labels:
     team: DevOps
-    istio-injection: disabled
+    istio-injection: enable
